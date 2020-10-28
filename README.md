@@ -52,6 +52,7 @@ Install Node.js then run this command.
 ```sh
 $ npx gatsby-cli new gatsby-site https://github.com/gatsbyjs/gatsby-starter-hello-world
 $ cd gatsby-site
+$ npm start
 ```
 
 
