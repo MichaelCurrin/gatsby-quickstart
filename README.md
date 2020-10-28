@@ -8,6 +8,13 @@
 </div>
 
 
+## Preview
+
+<div align="center">
+    <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" />
+</div>
+
+
 ## Setup
 
 ```sh
