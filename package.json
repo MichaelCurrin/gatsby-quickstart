@@ -2,6 +2,7 @@
   "name": "gatsby-quickstart",
   "description": "A simplified bare-bones starter for Gatsby",
   "version": "0.1.0",
+  "author": "Michael Currin",
   "license": "0BSD",
   "scripts": {
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
@@ -22,9 +23,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+    "url": "https://github.com/MichaelCurrin/gatsby-quickstart"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/MichaelCurrin/gatsby-quickstart"
   }
 }
