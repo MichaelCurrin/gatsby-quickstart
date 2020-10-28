@@ -1,42 +1,46 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.com">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby Quickstart
-</h1>
+# Gatsby Quickstart
+> Starter template for a static site built with Gatsby
+
+<div align="center">
+    <a href="https://www.gatsbyjs.com">
+        <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
+    </a>
+</div>
 
 
-## Setup and run
+## Setup
 
 ```sh
 $ cd REPO
 $ npm install
+```
+
+## Commands
+
+Start the dev server.
+
+```sh
 $ npm start
 ```
 
-Open the browser:
+Then open in the browser:
 
 - [localhost:8000](http://localhost:8000))
-
-See also:
-
 - [localhost:8000/___graphql](http://localhost:8000/___graphql)
 
-Build for production.
+Build for production:
 
 ```sh
 $ npm run build
 ```
 
-Clean - delete `.cache.` and `public`.
+Clean - delete `.cache.` and `public`:
 
 ```sh
 $ npm run clean
 ```
 
-Format with Prettier.
+Format with Prettier:
 
 ```sh
 $ npm run format
