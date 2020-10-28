@@ -2,7 +2,6 @@
 > Starter template for a static site built with Gatsby
 
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/gatsby-quickstart)](https://github.com/MichaelCurrin/gatsby-quickstart/releases/?include_prereleases&sort=semver)
-
 [![License: 0BSD](https://img.shields.io/badge/License-0BSD-blue)](#license)
 
 <div align="center">
