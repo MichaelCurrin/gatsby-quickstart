@@ -15,6 +15,13 @@
 </div>
 
 
+## Resources
+
+- [Gatsby homepage](https://www.gatsbyjs.com/)
+- [Gatsby docs](https://www.gatsbyjs.com/docs/)
+- [Gatsby quickstart guide](https://www.gatsbyjs.com/docs/quick-start/)
+
+
 ## Setup
 
 ```sh
@@ -32,7 +39,7 @@ $ npm start
 
 Then open in the browser:
 
-- [localhost:8000](http://localhost:8000))
+- [localhost:8000](http://localhost:8000)
 - [localhost:8000/___graphql](http://localhost:8000/___graphql)
 
 Build for production:
