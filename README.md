@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's hello-world starter
+  Gatsby Quickstart
 </h1>
 
 
@@ -23,6 +23,25 @@ Open the browser:
 See also:
 
 - [localhost:8000/___graphql](http://localhost:8000/___graphql)
+
+Build for production.
+
+```sh
+$ npm run build
+```
+
+Clean - delete `.cache.` and `public`.
+
+```sh
+$ npm run clean
+```
+
+Format with Prettier.
+
+```sh
+$ npm run format
+```
+
 
 ## Create new project
 
