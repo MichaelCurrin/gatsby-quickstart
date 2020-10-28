@@ -1,6 +1,10 @@
 # Gatsby Quickstart
 > Starter template for a static site built with Gatsby
 
+[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/gatsby-quickstart)](https://github.com/MichaelCurrin/gatsby-quickstart/releases/?include_prereleases&sort=semver)
+
+[![License: 0BSD](https://img.shields.io/badge/License-0BSD-blue)](#license)
+
 <div align="center">
     <a href="https://www.gatsbyjs.com">
         <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
@@ -12,6 +16,12 @@
 
 <div align="center">
     <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" />
+</div>
+
+<div align="center">
+
+[![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge&logo=github)](https://github.com/MichaelCurrin/gatsby-quickstart/generate)
+
 </div>
 
 
