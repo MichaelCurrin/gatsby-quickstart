@@ -34,6 +34,8 @@ Build for production:
 $ npm run build
 ```
 
+View the result in the `public` directory.
+
 Clean - delete `.cache.` and `public`:
 
 ```sh
