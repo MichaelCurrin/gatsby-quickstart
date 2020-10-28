@@ -71,6 +71,8 @@ Format with Prettier:
 $ npm run format
 ```
 
+If you want to use GitHub Actions to deploy to GitHub Pages, see this [workflow](https://github.com/MichaelCurrin/react-quickstart/blob/master/.github/workflows/main.yml) for a React app.
+
 
 ## Create new project
 
