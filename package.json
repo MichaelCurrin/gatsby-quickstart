@@ -12,7 +12,7 @@
     "build": "gatsby build",
     "serve": "gatsby serve",
     "test": "echo 'Write tests! -> https://gatsby.dev/unit-testing' && exit 1",
-    "preversion": "npm run lint:fix",
+    "preversion": "npm run format",
     "version": "npm run build",
     "postversion": "git push --follow-tags"
   },
