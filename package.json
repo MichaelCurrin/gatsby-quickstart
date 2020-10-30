@@ -5,13 +5,16 @@
   "author": "Michael Currin",
   "license": "0BSD",
   "scripts": {
-    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
+    "format": "prettier --write '**/*.{js,jsx,ts,tsx,json,md}'",
     "develop": "gatsby develop",
     "start": "npm run develop",
-    "serve": "gatsby serve",
     "clean": "gatsby clean",
     "build": "gatsby build",
-    "test": "echo 'Write tests! -> https://gatsby.dev/unit-testing' && exit 1"
+    "serve": "gatsby serve",
+    "test": "echo 'Write tests! -> https://gatsby.dev/unit-testing' && exit 1",
+    "preversion": "npm run lint:fix",
+    "version": "npm run build",
+    "postversion": "git push --follow-tags"
   },
   "dependencies": {
     "gatsby": "^2.24.85",
